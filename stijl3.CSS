@@ -1,0 +1,38 @@
+body{
+  margin-left: 1vw;
+}
+
+h1{
+  color: gold;
+  text-align: center;
+  font-size: 4em;
+}
+
+h2{
+  color: gold;
+  font-size: 2em;
+  margin-bottom: 2vw;
+  margin-top: 2vw;
+}
+
+.grid{
+  display: grid;
+  grid-template-columns: 20vw 20vw 20vw 20vw 20vw;
+  grid-template-rows: 10vw 10vw 10vw 10vw 10vw 10vw 10vw 10vw 10vw 10vw 10vw;
+  position: relative;
+  grid-gap: 2%;
+}
+
+div{
+  border: 1px solid black;
+  margin: 1%;
+}
+
+.naam, .clubnaam{
+  font-size: 1em;
+}
+
+.betekenis{
+  font-size: 0.8em;
+  color: grey;
+}
