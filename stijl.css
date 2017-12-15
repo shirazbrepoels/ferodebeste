@@ -1,0 +1,308 @@
+.schild{
+  background-image: url(SOS-schild1.jpg);
+  opacity: 0.4;
+  width: 98vw;
+  height: 42.2vh;
+}
+
+h1{
+  color: gold;
+  text-align: center;
+  font-size: 4em;
+}
+
+h2{
+  color: gold;
+  font-size: 2em;
+}
+
+nav{
+  bottom: 2vw;
+  text-align: center;
+}
+
+a{
+  color: black;
+}
+
+.grid{
+  display: grid;
+  grid-template-columns: 20vw 20vw 20vw 20vw 20vw;
+  grid-template-rows: 20vw 20vw 20vw 20vw 20vw 20vw 20vw 20vw 20vw 20vw 20vw;
+  position: relative;
+  grid-gap: 2px;
+}
+
+.naam{
+  font-weight: bold;
+  text-align: center;
+  font-size: 1.2em;
+  color: white;
+  background-color: black;
+  width: 50%
+}
+
+.een{
+  background-image: url(bakkie.jpg);
+  background-size: cover;
+}
+
+.twee{
+  background-image: url(beat.jpg);
+  background-size: cover;
+}
+
+.drie{
+  background-image: url(braajt.jpg);
+  background-size: cover;
+}
+
+.vier{
+  background-image: url(coeur.jpg);
+  background-size: cover;
+}
+
+.vijf{
+  background-image: url(cosmo.jpg);
+  background-size: cover;
+}
+
+.zes{
+  background-image: url(cresch.jpg);
+  background-size: cover;
+}
+
+.zeven{
+  background-image: url(ditow.jpg);
+  background-size: cover;
+}
+
+.acht{
+  background-image: url(don.jpg);
+  background-size: cover;
+}
+
+.negen{
+  background-image: url(dour.jpg);
+  background-size: cover;
+}
+
+.tien{
+  background-image: url(duif.jpg);
+  background-size: cover;
+}
+
+.elf{
+  background-image: url(duvel.jpg);
+  background-size: cover;
+}
+
+.twaalf{
+  background-image: url(enth.jpg);
+  background-size: cover;
+}
+
+.dertien{
+  background-image: url(fero.jpg);
+  background-size: cover;
+}
+
+.veertien{
+  background-image: url(feu.jpg);
+  background-size: cover;
+}
+
+.vijftien{
+  background-image: url(fjuum.jpg);
+  background-size: cover;
+}
+
+.zestien{
+  background-image: url(fluffie.jpg);
+  background-size: cover;
+}
+
+.zeventien{
+  background-image: url(fort.jpg);
+  background-size: cover;
+}
+
+.achttien{
+  background-image: url(gibber.jpg);
+  background-size: cover;
+}
+
+.negentien{
+  background-image: url(grisz.jpg);
+  background-size: cover;
+}
+
+.twintig{
+  background-image: url(hagar.jpg);
+  background-size: cover;
+}
+
+.eenentwintig{
+  background-image: url(hejz.jpg);
+  background-size: cover;
+}
+
+.tweeentwintig{
+  background-image: url(hopla.jpg);
+  background-size: cover;
+}
+
+.drieentwintig{
+  background-image: url(kami.jpg);
+  background-size: cover;
+}
+
+.vierentwintig{
+  background-image: url(ketsj.jpg);
+  background-size: cover;
+}
+
+.vijfentwintig{
+  background-image: url(lago.jpg);
+  background-size: cover;
+}
+
+.zesentwintig{
+  background-image: url(lans.jpg);
+  background-size: cover;
+}
+
+.zevenentwintig{
+  background-image: url(lowki.jpg);
+  background-size: cover;
+}
+
+.achtentwintig{
+  background-image: url(navii.jpg);
+  background-size: cover;
+}
+
+.negenentwintig{
+  background-image: url(paaij.jpg);
+  background-size: cover;
+}
+
+.dertig{
+  background-image: url(pann.jpg);
+  background-size: cover;
+}
+
+.eenendertig{
+  background-image: url(phence.jpg);
+  background-size: cover;
+}
+
+.tweeendertig{
+  background-image: url(phinn.jpg);
+  background-size: cover;
+}
+
+.drieendertig{
+  background-image: url(posj.jpg);
+  background-size: cover;
+}
+
+.vierendertig{
+  background-image: url(qlinck.jpg);
+  background-size: cover;
+}
+
+.vijfendertig{
+  background-image: url(quitty.png);
+  background-size: cover;
+}
+
+.zesendertig{
+  background-image: url(ree.jpg);
+  background-size: cover;
+}
+
+.zevenendertig{
+  background-image: url(rouf.jpg);
+  background-size: cover;
+}
+
+.achtendertig{
+  background-image: url(schwung.jpg);
+  background-size: cover;
+}
+
+.negenendertig{
+  background-image: url(silly.jpg);
+  background-size: cover;
+}
+
+.veertig{
+  background-image: url(sjuut.jpg);
+  background-size: cover;
+}
+
+.eenenveertig{
+  background-image: url(smodder.jpg);
+  background-size: cover;
+}
+
+.tweeenveertig{
+  background-image: url(sqwiek.jpg);
+  background-size: cover;
+}
+
+.drieenveertig{
+  background-image: url(suur.jpg);
+  background-size: cover;
+}
+
+.vierenveertig{
+  background-image: url(tails.jpg);
+  background-size: cover;
+}
+
+.vijfenveertig{
+  background-image: url(teir.jpg);
+  background-size: cover;
+}
+
+.zesenveertig{
+  background-image: url(toeck.jpg);
+  background-size: cover;
+}
+
+.zevenenveertig{
+  background-image: url(trevi.jpg);
+  background-size: cover;
+}
+
+.achtenveertig{
+  background-image: url(tuym.jpg);
+  background-size: cover;
+}
+
+.negenenveertig{
+  background-image: url(vlekkie.jpg);
+  background-size: cover;
+}
+
+.vijftig{
+  background-image: url(wablieft.jpg);
+  background-size: cover;
+}
+
+.eenenvijftig{
+  background-image: url(wall.jpg);
+  background-size: cover;
+}
+
+.tweeenvijftig{
+  background-image: url(zalm.png);
+  background-size: cover;
+}
+
+.drieenvijftig{
+  background-image: url(zjett.jpg);
+  background-size: cover;
+}
