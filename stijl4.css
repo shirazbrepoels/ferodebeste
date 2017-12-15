@@ -1,0 +1,300 @@
+body{
+  margin-left: 1vw;
+}
+
+h1{
+  color: gold;
+  text-align: center;
+  font-size: 4em;
+}
+
+h2{
+  color: gold;
+  font-size: 2em;
+  margin-bottom: 2vw;
+  margin-top: 2vw;
+}
+
+p{
+  font-size: 2em;
+}
+
+.grid{
+  display: grid;
+  grid-gap: 3vw;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+
+}
+
+.een{
+  grid-row: 1;
+  grid-column: 2;
+}
+
+.eenenveertig{
+  grid-row: 1;
+  grid-column: 5;
+}
+
+.vierenvijftig{
+  grid-row: 1;
+  grid-column: 7;
+}
+
+.vijfendertig{
+  grid-row: 2;
+  grid-column: 1;
+}
+
+.negenenveertig{
+  grid-row: 2;
+  grid-column: 3;
+}
+
+.elf{
+  grid-row: 2;
+  grid-column: 6;
+}
+
+.achttien{
+  grid-row: 3;
+  grid-column: 5;
+}
+
+.zestien{
+  grid-row: 4;
+  grid-column: 4;
+}
+
+.achtendertig{
+  grid-row: 4;
+  grid-column: 5;
+}
+
+.negenendertig{
+  grid-row: 4;
+  grid-column: 7;
+}
+
+.vijftig{
+  grid-row: 5;
+  grid-column: 4;
+}
+
+.tweeenvijftig{
+  grid-row: 6;
+  grid-column: 2;
+}
+
+.acht{
+  grid-row: 6;
+  grid-column: 4;
+}
+
+.tweeentwintig{
+  grid-row: 6;
+  grid-column: 5;
+}
+
+.tien{
+  grid-row: 6;
+  grid-column: 6;
+}
+
+.twintig{
+  grid-row: 7;
+  grid-column: 1;
+}
+
+.zesentwintig{
+  grid-row: 8;
+  grid-column: 2;
+}
+
+.veertien{
+  grid-row: 8;
+  grid-column: 3;
+}
+
+.drieenveertig{
+  grid-row: 8;
+  grid-column: 5;
+}
+
+.eenenvijftig{
+  grid-row: 9;
+  grid-column: 2;
+}
+
+.zesendertig{
+  grid-row: 9;
+  grid-column: 3;
+}
+
+.twee{
+  grid-row: 9;
+  grid-column: 4;
+}
+
+.vijf{
+  grid-row: 10;
+  grid-column: 1;
+}
+
+.zes{
+  grid-row: 10;
+  grid-column: 4;
+}
+
+.vier{
+  grid-row: 10;
+  grid-column: 7;
+}
+
+.negen{
+  grid-row: 11;
+  grid-column: 2;
+}
+
+.drie{
+  grid-row: 11;
+  grid-column: 6;
+}
+
+.tweeenveertig{
+  grid-row: 11;
+  grid-column: 7;
+}
+
+.drieentwintig{
+  grid-row: 12;
+  grid-column: 2;
+}
+
+.vijfenveertig{
+  grid-row: 12;
+  grid-column: 3;
+}
+
+.drieendertig{
+  grid-row: 12;
+  grid-column: 4;
+}
+
+.achtenveertig{
+  grid-row: 12;
+  grid-column: 5;
+}
+
+.negenentwintig{
+  grid-row: 13;
+  grid-column: 2;
+}
+
+.zevenendertig{
+  grid-row: 13;
+  grid-column: 3;
+}
+
+.drieenvijftig{
+  grid-row: 13;
+  grid-column: 4;
+}
+
+.negentien{
+  grid-row: 13;
+  grid-column: 5;
+}
+
+.zesenveertig{
+  grid-row: 13;
+  grid-column: 6;
+}
+
+.vierentwintig{
+  grid-row: 14;
+  grid-column: 1;
+}
+
+.zevenenveertig{
+  grid-row: 14;
+  grid-column: 4;
+}
+
+.achtentwintig{
+  grid-row: 14;
+  grid-column: 5;
+}
+
+.vierenveertig{
+  grid-row: 14;
+  grid-column: 7;
+}
+
+.zevenentwintig{
+  grid-row: 15;
+  grid-column: 3;
+}
+
+.eenentwintig{
+  grid-row: 15;
+  grid-column: 4;
+}
+
+.tweeendertig{
+  grid-row: 15;
+  grid-column: 5;
+}
+
+.veertig{
+  grid-row: 15;
+  grid-column: 6;
+}
+
+.vierendertig{
+  grid-row: 15;
+  grid-column: 7;
+}
+
+.twaalf{
+  grid-row: 16;
+  grid-column: 1;
+}
+
+.zeven{
+  grid-row: 16;
+  grid-column: 2;
+}
+
+
+.eenendertig{
+  grid-row: 16;
+  grid-column: 4;
+}
+
+.dertien{
+  grid-row: 17;
+  grid-column: 5;
+}
+
+
+.vijftien{
+  grid-row: 17;
+  grid-column: 6;
+}
+
+.zeventien{
+  grid-row: 18;
+  grid-column: 3;
+}
+
+.vijfentwintig{
+  grid-row: 18;
+  grid-column: 6;
+}
+
+.dertig{
+  grid-row: 18;
+  grid-column: 4;
+}
