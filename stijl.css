@@ -1,8 +1,15 @@
+body{
+  margin-left: 1vw;
+}
 .schild{
   background-image: url(SOS-schild1.jpg);
   opacity: 0.4;
   width: 98vw;
   height: 42.2vh;
+}
+
+iframe{
+  margin-top: 1vw;
 }
 
 h1{
@@ -14,7 +21,15 @@ h1{
 h2{
   color: gold;
   font-size: 2em;
+  margin-bottom: 2vw;
+  margin-top: 2vw;
 }
+
+h3{
+  color: red;
+  font-size: 1em;
+}
+
 
 nav{
   bottom: 2vw;
@@ -23,6 +38,15 @@ nav{
 
 a{
   color: black;
+}
+
+#lied{
+  text-align: center;
+}
+
+.pr{
+  display:grid;
+  grid-template-columns: 20vw 20vw 20vw 20vw 20vw;
 }
 
 .grid{
