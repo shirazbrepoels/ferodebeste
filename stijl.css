@@ -1,6 +1,27 @@
 body{
   margin-left: 1vw;
 }
+
+Table, tr, td, th {
+	border: 1px solid black;
+	padding: 5px;
+	text-align: center;
+}
+
+th{
+  font-style: bold;
+  font-size: 2em;
+}
+
+img{
+  display: inline;
+  width: 30%;
+}
+
+.monogram{
+  width: 10%
+}
+
 .schild{
   background-image: url(SOS-schild1.jpg);
   opacity: 0.4;
